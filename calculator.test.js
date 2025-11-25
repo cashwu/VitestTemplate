@@ -1,5 +1,5 @@
-const {describe, test, expect} = require('@jest/globals');
-const {add, subtract, multiply, divide} = require('./calculator');
+import {describe, test, expect} from '@jest/globals';
+import {add, subtract, multiply, divide} from './calculator.js';
 
 describe('Calculator', () => {
     describe('add', () => {

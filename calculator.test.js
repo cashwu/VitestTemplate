@@ -1,4 +1,4 @@
-import {describe, test, expect} from '@jest/globals';
+import {describe, test, expect} from 'vitest';
 import {add, subtract, multiply, divide} from './calculator.js';
 
 describe('Calculator', () => {

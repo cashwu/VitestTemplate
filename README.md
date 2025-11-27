@@ -1,12 +1,9 @@
-# Jest Test Template
+# Vitest Template
 
 ## command run test
 
 ```
 npm install
 
-npm run test
+npm test
 ```
-
-## WebStorm run test
-- Node options:  --experimental-vm-modules
